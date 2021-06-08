@@ -4,9 +4,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gudigarchandan7&label=Profile%20views&color=0e75b6&style=flat" alt="gudigarchandan7" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gudigarchandan7" alt="gudigarchandan7" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/@chandankumarl7" target="blank"><img src="https://img.shields.io/twitter/follow/@chandankumarl7?logo=twitter&style=for-the-badge" alt="@chandankumarl7" /></a> </p>
-
 - 🌱 I’m currently learning **Entrepreneurship, CryptoCurrencies,Full-stack developer, Automations and Algorithms.**
 
 - 📝 I regularly write articles on [https://www.blogger.com/blog/posts/4478165764415034012](https://www.blogger.com/blog/posts/4478165764415034012)
